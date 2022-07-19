@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mimickStern/firstDeploy.git/static/css/main.073c9b0a.css",
+    "main.js": "/mimickStern/firstDeploy.git/static/js/main.eca9ef8b.js",
+    "index.html": "/mimickStern/firstDeploy.git/index.html",
+    "main.073c9b0a.css.map": "/mimickStern/firstDeploy.git/static/css/main.073c9b0a.css.map",
+    "main.eca9ef8b.js.map": "/mimickStern/firstDeploy.git/static/js/main.eca9ef8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.eca9ef8b.js"
+  ]
+}
